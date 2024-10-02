@@ -11,5 +11,9 @@ public class Phone {
 
   //Method
   public void call(){
-    System.out.println(String message)
+    System.out.println("A phone can make a phone call.")
+}
+  public void sendMessage(String message){
+    
+  }
 }

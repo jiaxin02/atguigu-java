@@ -14,6 +14,9 @@ public class Phone {
     System.out.println("A phone can make a phone call.")
 }
   public void sendMessage(String message){
-    
+    System.out.println("Sent message:" + message);
+  }
+  public void playGame({
+    System.out.println("A phone can be used for playing games.");
   }
 }
